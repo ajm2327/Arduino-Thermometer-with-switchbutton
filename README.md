@@ -1,5 +1,6 @@
 # Arduino-Thermometer-with-switchbutton
 A project including the design of a thermometer using arduino and DHT11 temperature sensor  
+The project1.ino file contains the arduino code for this circuit.  
 
 This is a class project which involved several requirements which include:  
 
