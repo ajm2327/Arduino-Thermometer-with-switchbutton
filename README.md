@@ -24,5 +24,6 @@ This is a class project which involved several requirements which include:
  
  ![image](https://user-images.githubusercontent.com/72291395/226684113-ccd7e17a-186d-4ded-af68-2f4635fabfe2.png)  
  
- This circuit is not identical to the final design shown in my schematic but demonstrates the DHT11 functioning, integrated with the arduino, and displaying room temperature on the 16 by 2 LCD display. This photo was before my final design which included the switch button, LEDs, and switching modes. 
-
+ This circuit is not identical to the final design shown in my schematic but demonstrates the DHT11 functioning, integrated with the arduino, and displaying room temperature on the 16 by 2 LCD display. This photo was before my final design which included the switch button, LEDs, and switching modes.  
+   
+ There are several improvements that can be made for this design, and functionality, obviously the wires must be more organized so that the physical circuit does not look like a rat's nest, an additional change to meeting the requirements could be changing the functionality of the LEDS, instead of the buttons symbolizing change in modes, they could instead symbolize temperature levels, ranging from the blue LED turning on for cold temperatures and the red LED turning on for hot temperatures, with two LEDs in between symbolizing warm and cool temperatures. 
